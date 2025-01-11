@@ -7,8 +7,7 @@ This project focuses on classifying constellations from images using deep learni
 - [Key Features](#key-features)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Acknowledgments](#acknowledgments)
+
 
 ---
 
@@ -65,16 +64,6 @@ pip install tensorflow
 
 4. Modify parameters in the notebook to suit your dataset and requirements.
 
----
-
-## Project Structure
-- **`Constellation Classifier.ipynb`:** The main Jupyter Notebook containing the code for preprocessing, augmenting, and building the dataset.
-- **`Constellation Dataset/`:** Directory containing raw constellation images organized by labels.
-- **`augmented_dataset/`:** Directory to store augmented images.
-- **`constellation names.txt`:** File containing the names of the constellations.
 
 ---
-
-## Acknowledgments
-Special thanks to the developers of TensorFlow and the contributors of the dataset for enabling this project. This project was created to assist in automated constellation classification for educational and research purposes.
 
