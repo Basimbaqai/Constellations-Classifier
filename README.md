@@ -51,7 +51,7 @@ pip install tensorflow
 ## Usage
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/Basimbaqai/Constellations-Classifier.git)
    cd constellation-classifier
    ```
 
